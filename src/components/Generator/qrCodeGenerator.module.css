@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+}
+
+.input {
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 0.5px solid black;
+	background: antiquewhite;
+	width: 400px;
+	height: 50px;
+	padding: 8px;
+	font-size: 22px;
+}
+
+.button {
+	border-radius: 5px;
+	background: white;
+	border: none;
+	font-size: 20px;
+	background: black;
+	color: white;
+	padding: 8px;
+}
