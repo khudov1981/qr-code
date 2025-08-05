@@ -13,4 +13,5 @@ export default defineConfig({
 		// Recommended minimum target (See FAQ for more details)
 		target: "es2022",
 	},
+	base: "/qr-code",
 });
